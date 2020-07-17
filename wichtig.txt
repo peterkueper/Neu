@@ -8,5 +8,5 @@ d
 e
 
 Das ist eine neue Zeile
-Mit VCS geändert
+Mit CVS geändert
 Hurra
