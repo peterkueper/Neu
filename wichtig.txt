@@ -9,4 +9,4 @@ e
 
 Das ist eine neue Zeile
 Mit CVS geändert
-Hurra
+
